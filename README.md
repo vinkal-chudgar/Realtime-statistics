@@ -1,6 +1,7 @@
 # Realtime-statistics
 
-    Based on Spring Boot. Time complexity & Space Complexity of these API is O(1).
+    This project is Based on Spring Boot. I have ensured that Time complexity & Space Complexity of these API is O(1) 
+    and APIs are thread safe.
     
 
 The main use case for our API is to calculate realtime statistic from the last 60 seconds. There will be two APIs, one of them is
