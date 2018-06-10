@@ -1,9 +1,0 @@
-io\chudgar\vinkal\service\StatisticsService.class
-io\chudgar\vinkal\rest\StatisticsController.class
-io\chudgar\vinkal\common\utils\DateTimeUtil.class
-io\chudgar\vinkal\domain\Statistics.class
-io\chudgar\vinkal\Application.class
-io\chudgar\vinkal\domain\Transaction.class
-io\chudgar\vinkal\rest\TxController.class
-io\chudgar\vinkal\domain\TxStatistics.class
-io\chudgar\vinkal\service\StatisticsServiceImpl.class
